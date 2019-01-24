@@ -9,8 +9,6 @@
 [![Library](https://img.shields.io/badge/Tensorflow-1.12.0-006600.svg)](http://www.tensorflow.org/)
 [![Library](https://img.shields.io/badge/OpenCV-3.3.1-6600cc.svg)](https://opencv.org/)
 
-> To create more badges like the upper ones go to - https://shields.io
-> Full documentation/ MarkDown Guide - https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/
 
 In this project i created a model using tensorflow keras (python) to identify dresses
 
